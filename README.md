@@ -1,2 +1,4 @@
 # CIS361002
-Web Development
+Welcome to Class
+
+Have a nice day
